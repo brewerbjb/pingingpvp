@@ -1,0 +1,73 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#headBar {
+	position: fixed;
+	display: inline-block;
+	width: 70%;
+	height: 12vh;
+	min-height: 90px;
+	background-color: #333333;
+	padding: 0px;
+	padding-left: 15%;
+	padding-right: 15%;
+	margin: 0px;
+	top: 0px;
+	box-shadow: 0px 0px 10px #262626;
+}
+
+#websiteLogo {
+	height: 10vh;
+	min-height: 70px;
+	min-width: 70px;
+	width: 10vh;
+	margin: 1vh 1vw 1vh 0;
+	padding: 0px;
+	float: left;
+}
+
+#title {
+	float: left;
+	margin: 0px;
+	color: #DD873A;
+	font-size: 45px;
+	margin: 2.5vh 0px 2.5vh 0px;
+	padding: 0px;
+	text-shadow: 2px 2px 5px black;
+}
+
+#navBar {
+	overflow: hidden;
+	float: right;
+	width: 360px;
+	padding-top: 5vh;
+}
+
+#navBar a {
+	float: left;
+	text-align: center;
+	padding: 0px 6% 0px 0px;
+	text-decoration: none;
+	font-size: 24px;
+	text-shadow: 1px 1px 5px black;
+	color: #d9d9d9;
+}
+
+#navBar a:hover {
+	text-shadow: 1px 1px 3px white;
+	text-decoration: underline;
+	color: white;
+}
+
+#navBar a.active {
+	color: White;
+}
+
+#footer {
+	background-color: #333333;
+	height: 300px;
+	box-shadow: 0px 0px 10px #262626;
+}
