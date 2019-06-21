@@ -9,7 +9,7 @@ body {
 	display: inline-block;
 	width: 70%;
 	height: 12vh;
-	min-height: 90px;
+	min-height: 6vw;
 	background-color: #333333;
 	padding: 0px;
 	padding-left: 15%;
@@ -21,8 +21,8 @@ body {
 
 #websiteLogo {
 	height: 10vh;
-	min-height: 70px;
-	min-width: 70px;
+	min-height: 4vw;
+	min-width: 4vw;
 	width: 10vh;
 	margin: 1vh 1vw 1vh 0;
 	padding: 0px;
@@ -33,7 +33,7 @@ body {
 	float: left;
 	margin: 0px;
 	color: #DD873A;
-	font-size: 45px;
+	font-size: 3vw;
 	margin: 2.5vh 0px 2.5vh 0px;
 	padding: 0px;
 	text-shadow: 2px 2px 5px black;
@@ -42,7 +42,7 @@ body {
 #navBar {
 	overflow: hidden;
 	float: right;
-	width: 360px;
+	width: 23vw;
 	padding-top: 5vh;
 }
 
@@ -51,7 +51,7 @@ body {
 	text-align: center;
 	padding: 0px 6% 0px 0px;
 	text-decoration: none;
-	font-size: 24px;
+	font-size: 1.4vw;
 	text-shadow: 1px 1px 5px black;
 	color: #d9d9d9;
 }

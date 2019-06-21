@@ -14,12 +14,12 @@
 }
 
 #sec1 h1{
-	font-size: 70px;
+	font-size: 4vw;
 }
 
 #sec1 h2{
 	margin-top: 10vh;
-	font-size: 40px;
+	font-size: 2.5vw;
 }
 #sec2 {
 	height: 80vh;
@@ -34,7 +34,7 @@
 
 #sec2 h1{
 	text-align: center;
-	font-size: 70px;
+	font-size: 4vw;
 	color: #DD873A;
 	text-shadow: 1px 1px 5px black;
 }
@@ -55,7 +55,7 @@
 }
 
 #sec3 h1{
-	font-size: 60px;
+	font-size: 4vw;
 }
 
 #footer {
@@ -77,14 +77,14 @@
 
 #sec2 h2 {
 	text-align: center;
-	font-size: 60px;
+	font-size: 2vw;
 	color: white;
 	text-shadow: 1px 1px 5px black;
 }
 
 #sec2 p {
 	text-align: center;
-	font-size: 40px;
+	font-size: 1.8vw;
 	color: #b3b3b3;
 	text-shadow: 1px 1px 5px black;
 }
